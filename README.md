@@ -65,7 +65,7 @@ Proceed to log in the same way as before. Once you’ve logged into your adminis
 
 7.
 <p align="center">
-<img src="https://i.imgur.com/HbRCora.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HbRCora.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
@@ -113,7 +113,7 @@ Next, we will install Active Directory on our Server2022. Open Server Manager, c
 
 13.
 <p align="center">
-<img src="https://i.imgur.com/K4P2K94.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/K4P2K94.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
@@ -217,7 +217,7 @@ Congratulations we have successfully created a domain controller (SimoTech.com) 
 
 26.
 <p align="center">
-<img src="https://i.imgur.com/G7Kyyzj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/G7Kyyzj.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
