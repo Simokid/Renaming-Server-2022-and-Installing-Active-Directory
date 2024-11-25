@@ -54,7 +54,6 @@ We will rename the computer to "Server2022" and then click "OK." A prompt will a
 <br />
 <br />
 
-S
 
 6.
 <p align="center">
@@ -78,7 +77,7 @@ To optimize our performance for running virtual labs more efficiently, let's go 
 <br />
 <br />
 
-s
+
 
 9.
 <p align="center">
@@ -86,7 +85,7 @@ s
 <br />
 <br />
 
-s
+
 
 10.
 <p align="center">
@@ -94,7 +93,7 @@ s
 <br />
 <br />
 
-s
+
 
 11.
 <p align="center">
@@ -110,7 +109,7 @@ Next, we will install Active Directory on our Server2022. Open Server Manager, c
 <br />
 <br />
 
-s
+
 
 13.
 <p align="center">
@@ -118,7 +117,7 @@ s
 <br />
 <br />
 
-s
+
 
 14.
 <p align="center">
@@ -126,7 +125,7 @@ s
 <br />
 <br />
 
-s
+
 
 15.
 <p align="center">
@@ -142,7 +141,7 @@ Select "Active Directory Domain Services," then click "Add Features" when prompt
 <br />
 <br />
 
-s
+
 
 17.
 <p align="center">
@@ -190,7 +189,7 @@ We can uncheck “Create DNS delegation” then click “Next” then “Install
 <br />
 <br />
 
-s
+
 
 23.
 <p align="center">
