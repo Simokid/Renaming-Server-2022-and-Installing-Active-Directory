@@ -20,7 +20,7 @@ Now that we have Windows Server 2022 set up, we can proceed with installing Acti
 
 1.
 <p align="center">
-<img src="https://i.imgur.com/XvenmB7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XvenmB7.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
