@@ -1,6 +1,6 @@
 <h1>Overview: Lab 2 Renaming Windows Server 2022 and Installing Active Directory</h1>
 
-This repository documents the process of **Renaming Server 2022** and **Installing Active Directory** in a home lab environment. The project is conducted using **VirtualBox** and focuses on simulating a real-world IT setup. It serves as a practical demonstration of key IT administrative tasks, such as configuring server names, setting up Active Directory, and managing domain services.
+In this home lab, I will be demonstrating the process of **Renaming Server 2022** and **Installing Active Directory** in a home lab environment. The project is conducted using **VirtualBox** and focuses on simulating a real-world IT setup. It serves as a practical demonstration of key IT administrative tasks, such as configuring server names, setting up Active Directory, and managing domain services.
 
 <h2>Objectives</h2>
 
